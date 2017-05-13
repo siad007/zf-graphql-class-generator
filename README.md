@@ -1,0 +1,1 @@
+# zf-graphql-class-generator
